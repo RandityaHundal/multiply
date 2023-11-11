@@ -1,1 +1,1 @@
-"# multiply" 
+simple function/method in c#
